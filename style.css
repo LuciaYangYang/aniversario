@@ -1,0 +1,30 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: #FFB996;
+}
+p{
+  color: #f5f5f5;
+  font-size: 70px;
+  font-family: 'Bahnschrift', Times, serif;
+  text-align: center;
+}
+img{
+  height: 120px;
+  margin: 30px;
+}
+.pastel img{
+  height: 400px;
+}
+div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.mensaje p{
+  color: #f5f5f5;
+  font-size: 70px;
+  fro
+}
